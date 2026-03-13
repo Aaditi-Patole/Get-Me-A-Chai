@@ -52,8 +52,21 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/Homepage.png.png)
-![Homepage](screenshots/Homepage2.png.png)
+![Homepage](screenshots/Homepage.png)
+
+### Login
+![Login](screenshots/LoginPage.png)
+
+### Dashboard
+![Dashboard](screenshots/Creater_Dashboard.png)
+
+### Creater Page
+![Creater Page](screenshots/Creater_Page.png)
+
+### Payment Page
+![Payment Page](screenshots/Payment_Page.png)
+![Payment Page](screenshots/Payment_Page2.png)
+
 
 ## 📌 Future Improvements
 
