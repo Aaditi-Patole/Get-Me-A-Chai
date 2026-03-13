@@ -22,7 +22,7 @@ A web application that allows users to support creators by buying them a chai (s
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GetMeAChai.git
+git clone https://github.com/Aaditi-Patole/Get-Me-A-Chai.git
 ```
 
 Go to project directory
@@ -51,7 +51,9 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Homepage
+![Homepage](screenshots/Homepage.png.png)
+![Homepage](screenshots/Homepage2.png.png)
 
 ## 📌 Future Improvements
 
